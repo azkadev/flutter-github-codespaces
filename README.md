@@ -23,3 +23,8 @@ export PATH="$PWD/bin:$PATH"
 ```bash
 flutter doctor
 ```
+
+## Install Depends Android
+```bash
+
+```
