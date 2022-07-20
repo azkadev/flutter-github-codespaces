@@ -12,11 +12,11 @@ chmod +x fvm
 
 ```bash
 fvm config --cache-path ./
-fvm install 3.0.0
+fvm install 3.0.5
 ```
 
 ```bash
-cd 3.0.0
+cd 3.0.5
 export PATH="$PWD/bin:$PATH"
 ```
 
