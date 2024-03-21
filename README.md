@@ -1,30 +1,11 @@
-# flutter-github-codespaces
+IyBmbHV0dGVyLWdpdGh1Yi1jb2Rlc3BhY2VzCgpgYGBiYXNoCmNobW9kICt4
+IC4vaW5zdGFsbC5zaAouL2luc3RhbGwuc2gKYGBgCgpgYGBiYXNoCmNkIGZ2
+bQpjaG1vZCAreCBmdm0KYGBgCgpgYGBiYXNoCmZ2bSBjb25maWcgLS1jYWNo
+ZS1wYXRoIC4vCmZ2bSBpbnN0YWxsIDMuMC41CmBgYAoKYGBgYmFzaApjZCAz
+LjAuNQpleHBvcnQgUEFUSD0iJFBXRC9iaW46JFBBVEgiCmBgYAoKYGBgYmFz
+aApmbHV0dGVyIGRvY3RvcgpgYGAKCiMjIEluc3RhbGwgRGVwZW5kcyBBbmRy
+b2lkCmBgYGJhc2gKCmBgYAo=
 
-```bash
-chmod +x ./install.sh
-./install.sh
-```
-
-```bash
-cd fvm
-chmod +x fvm
-```
-
-```bash
-fvm config --cache-path ./
-fvm install 3.0.5
-```
-
-```bash
-cd 3.0.5
-export PATH="$PWD/bin:$PATH"
-```
-
-```bash
-flutter doctor
-```
-
-## Install Depends Android
-```bash
-
-```
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
